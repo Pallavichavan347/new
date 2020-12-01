@@ -1,0 +1,2 @@
+clearvars
+a = 10
